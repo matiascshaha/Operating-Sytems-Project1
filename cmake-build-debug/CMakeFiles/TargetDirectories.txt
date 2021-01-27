@@ -1,0 +1,3 @@
+/Users/mati_azz/CLionProjects/OSproject1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mati_azz/CLionProjects/OSproject1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mati_azz/CLionProjects/OSproject1/cmake-build-debug/CMakeFiles/OSproject1.dir
